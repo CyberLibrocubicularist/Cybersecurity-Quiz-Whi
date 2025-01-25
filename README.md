@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cybersecurity Quiz Whiz Game
 
 ## Description
@@ -14,3 +15,7 @@ This is an interactive multiple-choice quiz game to test basic cybersecurity kno
    ```bash
    python3 quiz_game.py
 
+=======
+# Cybersecurity-Quiz-Whi
+A fun, interactive Python-based quiz game to test your cybersecurity knowledge. Includes five multiple-choice questions with instant feedback and a final score display!
+>>>>>>> a6eafc90ca724065eaf6120dcd615e6a59cdc1fd
